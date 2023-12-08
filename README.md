@@ -7,3 +7,4 @@
 ## Shortcut To Solutions
 
 - Problem 1 Two Sum: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.py)
+- Problem 2 Add Two Numbers: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0002_AddTwoNumbers.cpp)
