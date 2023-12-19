@@ -8,6 +8,7 @@
 
 - Problem 1 Two Sum: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.py)
 - Problem 2 Add Two Numbers: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0002_AddTwoNumbers.cpp)
+- Problem 3 Longest Substring Without Repeating Characters: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0003_LongestSubstringWithoutRepeatingCharacters.py)
 - Problem 4 Median of Two Sorted Arrays: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0004_MedianofTwoSortedArrays.py)
 - Problem 9 Palindrome Number: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0009_PalindromeNumber.cpp)
 - Problem 34 Find First and Last Position of Element in Sorted Array: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0034_FindFirstAndLastPositionOfElementInSortedArray.py)
