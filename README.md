@@ -15,5 +15,5 @@
 - Problem 34 Find First and Last Position of Element in Sorted Array: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0034_FindFirstAndLastPositionOfElementInSortedArray.py)
 - Problem 35 Search Insert Position: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0035_SearchInsertPosition.cpp) | [TypeScript](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0035_SearchInsertPosition.ts)
 - Problem 58 Length of Last Word: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0058_LengthOfLastWord.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0058_LengthOfLastWord.py)
-- Problem 66 Plus One: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0066_PlusOne.py)
+- Problem 66 Plus One: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0066_PlusOne.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0066_PlusOne.py)
 - Problem 1422 Maximum Score After Splitting a String: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/1422_MaximumScoreAfterSplittingAString.py)
