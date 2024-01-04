@@ -6,7 +6,7 @@
 
 ## Shortcut To Solutions
 
-- Problem 1 Two Sum: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.py)
+- Problem 1 Two Sum: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0001_TwoSum.py) | [Go](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/go/0001_TwoSum.go)
 - Problem 2 Add Two Numbers: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0002_AddTwoNumbers.cpp)
 - Problem 3 Longest Substring Without Repeating Characters: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0003_LongestSubstringWithoutRepeatingCharacters.py)
 - Problem 4 Median of Two Sorted Arrays: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/problemSet/0004_MedianofTwoSortedArrays.py)
