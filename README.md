@@ -16,4 +16,5 @@
 - Problem 35 Search Insert Position: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/c++/0035_SearchInsertPosition.cpp) | [TypeScript](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/typescript/0035_SearchInsertPosition.ts)
 - Problem 58 Length of Last Word: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/c++/0058_LengthOfLastWord.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/python/0058_LengthOfLastWord.py)
 - Problem 66 Plus One: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/c++/0066_PlusOne.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/python/0066_PlusOne.py)
+- Problem 69 Sqrt(x): [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/c++/0069_SqrtX.cpp)
 - Problem 1422 Maximum Score After Splitting a String: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/c++/1422_MaximumScoreAfterSplittingAString.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/python/1422_MaximumScoreAfterSplittingAString.py)
