@@ -19,3 +19,4 @@
 - Problem 69 Sqrt(x): [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/c++/0069_SqrtX.cpp)
 - Problem 938 Range Sum of BST: [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/python/0938_RangeSumOfBST.py)
 - Problem 1422 Maximum Score After Splitting a String: [C++](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/c++/1422_MaximumScoreAfterSplittingAString.cpp) | [Python](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/python/1422_MaximumScoreAfterSplittingAString.py)
+- Problem 2694 Event Emitter: [TypeScript](https://github.com/yuhexiong/leetCode-solve-and-explain/blob/main/typescript/2694_EventEmitter.ts)
