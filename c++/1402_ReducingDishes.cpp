@@ -3,12 +3,13 @@
 
 #include <vector>
 #include <algorithm>
+using namespace std;
 
 class Solution {
 public:
-    int maxSatisfaction(std::vector<int>& satisfaction) {
+    int maxSatisfaction(vector<int>& satisfaction) {
         // 先把菜從低分排到高分
-        std::sort(satisfaction.begin(), satisfaction.end());
+        sort(satisfaction.begin(), satisfaction.end());
 
         int row = 0, ans = 0;
         // 從高分跑迴圈回來

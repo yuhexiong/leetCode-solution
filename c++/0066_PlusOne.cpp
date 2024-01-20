@@ -2,10 +2,11 @@
 // https://leetcode.com/problems/plus-one/
 
 #include <vector>
+using namespace std;
 
 class Solution {
 public:
-    std::vector<int> plusOne(std::vector<int>& digits) {
+    vector<int> plusOne(vector<int>& digits) {
         // 在最後一個值 + 1
         digits.back() += 1;
         

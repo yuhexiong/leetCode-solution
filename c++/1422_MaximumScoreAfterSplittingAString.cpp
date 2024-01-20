@@ -3,10 +3,11 @@
 
 #include <string>
 #include <algorithm>
+using namespace std;
 
 class Solution {
 public:
-    int maxScore(std::string s) {
+    int maxScore(string s) {
         // 先跑一個迴圈計算所有的1
         int totalOne = 0;
         for (char c : s) {
@@ -30,7 +31,7 @@ public:
             }
 
             // 在 過去最大結果 和 目前左邊0個數 + 目前右邊1格數 中取最大值
-            ans = std::max(ans, currZero + totalOne - currOne);
+            ans = max(ans, currZero + totalOne - currOne);
         }
 
         return ans;
