@@ -8,6 +8,7 @@ using namespace std;
 class Solution {
 public:
     int findMin(vector<int>& nums) {
+        // 依題目選取整個陣列中最小的 element
         return *min_element(nums.begin(), nums.end());
     }
 };
