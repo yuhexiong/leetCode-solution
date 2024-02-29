@@ -15,6 +15,7 @@ public:
         // 設置一個進位的變數
         int carry = 0;
         
+        // 初始化虛擬節點
         ListNode *dummy = nullptr;
         ListNode **curr = &dummy;
         
@@ -33,7 +34,7 @@ public:
             (*curr) = new ListNode(carry % 10);
             carry /= 10;
 
-            // curr移至下一個位置
+            // curr 移至下一個位置
             curr = &((*curr) -> next);
         }
         
