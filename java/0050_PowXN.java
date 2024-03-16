@@ -1,3 +1,6 @@
+// Problem 50: Pow(x, n)
+// https://leetcode.com/problems/powx-n/description/
+
 class Solution {
     public double myPow(double x, int n) {
         // 預設答案為 1, 宣告一個取絕對值的 n 為 positiveN
