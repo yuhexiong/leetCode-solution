@@ -2,6 +2,7 @@
 // https://leetcode.com/problems/maximize-happiness-of-selected-children/
 
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 class Solution {
