@@ -1,8 +1,6 @@
 // Problem 66: Plus One
 // https://leetcode.com/problems/plus-one/
 
-import java.util.*;
-
 class Solution {
     public int[] plusOne(int[] digits) {
         // 在最後一個值 + 1
