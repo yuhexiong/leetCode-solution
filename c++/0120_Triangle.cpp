@@ -2,6 +2,7 @@
 // https://leetcode.com/problems/triangle/
 
 #include <string>
+#include <vector>
 using namespace std;
 
 class Solution {

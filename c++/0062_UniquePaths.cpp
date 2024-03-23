@@ -2,6 +2,7 @@
 // https://leetcode.com/problems/unique-paths/
 
 #include <iostream>
+#include <cstdint>
 using namespace std;
 
 class Solution {
