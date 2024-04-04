@@ -4,5 +4,5 @@
 import pandas as pd
 
 def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
-    # 使用 head 決定顯示前幾行
+    # 使用 head 決定顯示前幾 row
     return employees.head(3)
