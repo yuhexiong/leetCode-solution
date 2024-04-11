@@ -1,7 +1,6 @@
 // Problem 9: Palindrome Number
 // https://leetcode.com/problems/palindrome-number/
 
-
 class Solution {
     public boolean isPalindrome(int x) {
         // 設置是否為回文的boolean, 頭尾數值的int, 和目前位數與最大基數
