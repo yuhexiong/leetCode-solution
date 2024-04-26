@@ -1,5 +1,5 @@
 # Problem 1289: Minimum Falling Path Sum II
-# https://leetcode.com/problems/minimum-falling-path-sum-ii/?envType=daily-question&envId=2024-04-26
+# https://leetcode.com/problems/minimum-falling-path-sum-ii/
 
 from typing import List
 
