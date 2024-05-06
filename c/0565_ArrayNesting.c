@@ -1,7 +1,6 @@
 // Problem 565: Array Nesting
 // https://leetcode.com/problems/array-nesting/
 
-#include <stdio.h>
 #include <stdbool.h>
 
 int arrayNesting(int* nums, int numsSize) {

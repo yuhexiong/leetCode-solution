@@ -1,9 +1,6 @@
 // Problem 3075: Maximize Happiness of Selected Children
 // https://leetcode.com/problems/maximize-happiness-of-selected-children/
 
-#include <stdio.h>
-#include <stdlib.h>
-
 // 寫由小排到大的 function
 int cmp(const void* a, const void* b) {
     return *(int*)a - *(int*)b;

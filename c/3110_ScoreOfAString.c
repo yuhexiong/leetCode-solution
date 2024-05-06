@@ -1,9 +1,6 @@
 // Problem 3110: Score of a String
 // https://leetcode.com/problems/score-of-a-string/
 
-#include <stdlib.h>
-#include <string.h>
-
 int scoreOfString(char *s) {
     // 預設答案是 0
     int ans = 0;
