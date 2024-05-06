@@ -6,7 +6,7 @@ from typing import List
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
 
-        # 串接兩個list並排序
+        # 串接兩個 list 並排序
         nums = nums1 + nums2
         nums.sort()
 
