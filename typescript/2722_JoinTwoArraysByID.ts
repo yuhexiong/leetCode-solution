@@ -1,6 +1,8 @@
 // Problem 2722: Join Two Arrays by ID
 // https://leetcode.com/problems/join-two-arrays-by-id/
 
+import { JSONValue } from "./types";
+
 function join(arr1: JSONValue[], arr2: JSONValue[]): JSONValue[] {
   // 宣告一個 result 放結果
   const result = {};

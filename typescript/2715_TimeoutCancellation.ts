@@ -1,6 +1,8 @@
 // Problem 2715: Timeout Cancellation
 // https://leetcode.com/problems/timeout-cancellation/
 
+import { JSONValue } from "./types";
+
 type Fn = (...args: JSONValue[]) => void
 
 function cancellable(fn: Fn, args: JSONValue[], t: number): Function {
