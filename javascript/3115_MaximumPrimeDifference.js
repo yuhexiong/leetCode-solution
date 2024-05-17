@@ -1,7 +1,7 @@
 // Problem 3115: Maximum Prime Difference
 // https://leetcode.com/problems/maximum-prime-difference/
 
-javaScriptProblemSet = {
+javaScriptSolution = {
   /**
    * @param {number} num
    * @return {boolean}

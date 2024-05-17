@@ -1,7 +1,7 @@
 // Problem 2722: Join Two Arrays by ID
 // https://leetcode.com/problems/join-two-arrays-by-id/
 
-javaScriptProblemSet = {
+javaScriptSolution = {
   join: function(arr1, arr2) {
     // 宣告一個 result 放結果
     const result = {};
