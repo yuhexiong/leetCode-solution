@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/palindrome-number/
 
 #include  <cmath>
-
+using namespace std;
 class Solution {
 public:
     bool isPalindrome(int x) {
