@@ -41,6 +41,7 @@
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 404 Sum of Left Leaves: [Python](./python/0404_SumOfLeftLeaves.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 565 Array Nesting: [C](./c/0565_ArrayNesting.c) | [C++](./c++/0565_ArrayNesting.cpp) | [Go](./go/0565_ArrayNesting.go) | [Java](./java/0565_ArrayNesting.java)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 648 Replace Words: [Python](./python/0648_ReplaceWords.py)  
+<img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 771 Jewels and Stones: [Python](./python/0771_JewelsAndStones.py)  
 <img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 899 Orderly Queue: [C++](./c++/0899_OrderlyQueue.cpp) | [Go](./go/0899_OrderlyQueue.go) | [Java](./java/0899_OrderlyQueue.java)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 970 Powerful Integers: [Python](./python/0970_PowerfulIntegers.py)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 938 Range Sum of BST: [Python](./python/0938_RangeSumOfBST.py)  
