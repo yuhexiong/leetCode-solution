@@ -3,6 +3,7 @@
 
 import pandas as pd
 
-def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
+
+def select_first_rows(employees: pd.DataFrame) -> pd.DataFrame:
     # 使用 head 決定顯示前幾 row
     return employees.head(3)

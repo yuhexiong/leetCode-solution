@@ -2,7 +2,7 @@
 # https://leetcode.com/problems/longest-palindromic-substring/
 
 class Solution:
-    def longestPalindrome(self, s: str) -> str:
+    def longest_palindrome(self, s: str) -> str:
         # 先宣告長度和中心是 0
         longest = 0
         center = 0
@@ -25,7 +25,7 @@ class Solution:
                 if count > longest:
                     longest = count
                     center = i+1
-        
+
         # 假如這個 Palindrome 是偶數
         for i in range(len(s) - 1):
             # 假如這個值和下一個值相同, 則以這兩個為基準往左與往右比較差異
@@ -49,7 +49,7 @@ class Solution:
         if longest == 0:
             return s[0]
         # 依照 longest 是奇數還是偶數, 搭配上面設置的 center 位置取的子陣列
-        elif longest%2 == 1:
-            return s[center - (longest-1)//2 : center + (longest+1)//2]
+        elif longest % 2 == 1:
+            return s[center - (longest-1)//2: center + (longest+1)//2]
         else:
-            return s[center - longest//2 + 1 : center + 1 + longest//2]
+            return s[center - longest//2 + 1: center + 1 + longest//2]

@@ -3,8 +3,9 @@
 
 from typing import List
 
+
 class Solution:
-    def maximumEnergy(self, energy: List[int], k: int) -> int:
+    def maximum_energy(self, energy: List[int], k: int) -> int:
         # 先宣告答案是負無窮大
         ans = float('-inf')
 
@@ -17,6 +18,6 @@ class Solution:
             dp[i] = energy[i] + (dp[i + k] if i + k < len(energy) else 0)
             # 取得目前 ans 和 dp[i] 較大者
             ans = max(ans, dp[i])
-        
+
         # 回傳 ans
         return ans

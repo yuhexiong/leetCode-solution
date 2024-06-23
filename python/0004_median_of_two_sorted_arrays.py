@@ -3,8 +3,9 @@
 
 from typing import List
 
+
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+    def find_median_sorted_arrays(self, nums1: List[int], nums2: List[int]) -> float:
 
         # 串接兩個 list 並排序
         nums = nums1 + nums2
@@ -14,6 +15,6 @@ class Solution:
         # // 為 地板除法, 除完後取整數
         n = len(nums)
         if n % 2 == 1:
-            return nums[n // 2] 
+            return nums[n // 2]
         else:
             return (nums[n // 2 - 1] + nums[n // 2]) / 2

@@ -3,14 +3,16 @@
 
 from typing import Optional
 
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
 
+
 class Solution:
-    def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
+    def range_sum_bst(self, root: Optional[TreeNode], low: int, high: int) -> int:
         def df(root):
             # 如果到底了, 就回傳 0
             if not root:

@@ -2,7 +2,7 @@
 # https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 class Solution(object):
-    def lengthOfLongestSubstring(self, s):
+    def length_of_longest_substring(self, s):
 
         # 預設答案是 0, 起點是 -1
         ans = 0

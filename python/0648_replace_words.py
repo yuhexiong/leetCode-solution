@@ -3,8 +3,9 @@
 
 from typing import List
 
+
 class Solution:
-    def replaceWords(self, dictionary: List[str], sentence: str) -> str:
+    def replace_words(self, dictionary: List[str], sentence: str) -> str:
         # 宣告放取代好的字的 list
         ans = []
         # 將句子拆成單字跑迴圈
