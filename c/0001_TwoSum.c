@@ -1,6 +1,8 @@
 // Problem 1: Two Sum
 // https://leetcode.com/problems/two-sum/
 
+#include <stdio.h>
+
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */

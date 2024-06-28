@@ -77,3 +77,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 3151 Special Array I: [Go](./go/3151_SpecialArrayI.go)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3152 Special Array II: [Go](./go/3152_SpecialArrayII.go)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3163 String Compression III: [C++](./c++/3163_StringCompressionIII.cpp)  
+<img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3196 Maximize Total Cost of Alternating Subarrays: [Python](./python/3196_maximize_total_cost_of_alternating_subarrays.py)  
