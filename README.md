@@ -33,7 +33,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 178 Rank Scores: [MySQL](./mysql/0178_RankScores.sql)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 180 Consecutive Numbers: [MySQL](./mysql/0180_ConsecutiveNumbers.sql)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 184 Department Highest Salary: [MySQL](./mysql/0184_DepartmentHighestSalary.sql)  
-<img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 185 Department Top Three Salaries: [MySQL](./mysql/0185_DepartmentTopThreeSalaries.sql)  
+<img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 185 Department Top Three Salaries: [MySQL](./mysql/0185_DepartmentTopThreeSalaries.sql) | [PostgreSQL](./postgresql/0185_DepartmentTopThreeSalaries.sql)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 237 Delete Node in a Linked List: [C++](./c++/0237_DeleteNodeInALinkedList.cpp)  
 <img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 262 Trips and Users: [MySQL](./mysql/0262_TripsAndUsers.sql)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 404 Sum of Left Leaves: [Python](./python/0404_sum_of_left_leaves.py)  
