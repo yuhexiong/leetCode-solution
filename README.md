@@ -18,6 +18,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 27 Remove Element: [C++](./c++/0027_RemoveElement.cpp) | [Java](./java/0027_RemoveElement.java)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 34 Find First and Last Position of Element in Sorted Array: [C++](./c++/0034_FindFirstAndLastPositionOfElementInSortedArray.cpp) | [Python](./python/0034_find_first_and_last_position_of_elementIn_sorted_array.py)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 35 Search Insert Position: [C](./c/0035_SearchInsertPosition.c) | [C++](./c++/0035_SearchInsertPosition.cpp) | [TypeScript](./typescript/0035_SearchInsertPosition.ts)  
+<img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 47 Permutations II: [Python](./python/0047_permutations_II.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 48 Rotate Image: [C++](./c++/0048_RotateImage.cpp) | [Java](./java/0048_RotateImage.java)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 50 Pow(x, n): [C++](./c++/0050_PowXN.cpp) | [Go](./go/0050_pow_x_n.go) | [Java](./java/0050_PowXN.java)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 58 Length of Last Word: [C++](./c++/0058_LengthOfLastWord.cpp) | [Python](./python/0058_length_of_last_word.py) | [Go](./go/0058_length_of_last_word.go)  
