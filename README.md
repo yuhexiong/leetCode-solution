@@ -80,3 +80,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3163 String Compression III: [C++](./c++/3163_StringCompressionIII.cpp)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3196 Maximize Total Cost of Alternating Subarrays: [Python](./python/3196_maximize_total_cost_of_alternating_subarrays.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3227 Vowels Game in a String: [C++](./c++/3227_VowelsGameInAString.cpp) | [Go](./go/3227_vowels_game_in_a_string.go)  
+<img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3259 Maximum Energy Boost From Two Drinks: [Python](./python/3259_maximum_energy_boost_from_two_drinks.py)  
