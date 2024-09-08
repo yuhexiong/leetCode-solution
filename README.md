@@ -47,7 +47,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 1248 Count Number: [C++](./c++/1248_CountNumberOfNiceSubarrays.cpp) | [Go](./go/1248_CountNumberOfNiceSubarrays.go) | [Java](./java/1248_CountNumberOfNiceSubarrays.java)  
 <img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 1289 Minimum Falling Path Sum II: [Python](./python/1289_minimum_falling_path_sum_II.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 1393 Capital Gain/Loss: [MySQL](./mysql/1393_CapitalGainLoss.sql)  
-<img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 1402 Reducing Dishes: [C++](./c++/1402_ReducingDishes.cpp) | [Go](./go/1402_ReducingDishes.go)  
+<img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 1402 Reducing Dishes: [C++](./c++/1402_ReducingDishes.cpp) | [Go](./go/1402_ReducingDishes.go) | [Java](./java/1402_ReducingDishes.java)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 1422 Maximum Score After Splitting a String: [C++](./c++/1422_MaximumScoreAfterSplittingAString.cpp) | [Python](./python/1422_maximum_score_after_splitting_a_string.py)  
 <img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 1575 Count All Possible Routes: [Python](./python/1575_count_all_possible_routes.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 1679 Max Number of K-Sum Pairs: [C](./c/1679_MaxNumberOfKSumPairs.c) | [C++](./c++/1679_MaxNumberOfKSumPairs.cpp)  
