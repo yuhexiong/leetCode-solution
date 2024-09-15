@@ -15,6 +15,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 9 Palindrome Number: [C++](./c++/0009_PalindromeNumber.cpp) | [Go](./go/0009_palindrome_number.go) | [Java](./java/0009_PalindromeNumber.java)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 11 Container With Most Water: [Python](./python/0011_container_with_most_water.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 12 Integer to Roman: [C++](./c++/0012_IntegerToRoman.cpp) | [Java](./java/0012_IntegerToRoman.java)  
+<img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 13 Roman to Integer: [C++](./c++/0013_RomanToInteger.cpp)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 17 Letter Combinations of a Phone Number: [Python](./python/0017_letter_combinations_of_a_phone_number.py)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 27 Remove Element: [C++](./c++/0027_RemoveElement.cpp) | [Java](./java/0027_RemoveElement.java)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 34 Find First and Last Position of Element in Sorted Array: [C++](./c++/0034_FindFirstAndLastPositionOfElementInSortedArray.cpp) | [Python](./python/0034_find_first_and_last_position_of_elementIn_sorted_array.py)  
