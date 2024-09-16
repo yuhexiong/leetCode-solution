@@ -5,7 +5,7 @@ from typing import List
 
 
 class Solution:
-    def maxArea(self, height: List[int]) -> int:
+    def max_area(self, height: List[int]) -> int:
         # 宣告 area 與左右兩邊的 index
         area = 0
         left = 0
