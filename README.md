@@ -28,6 +28,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 62 Unique Paths: [C++](./c++/0062_UniquePaths.cpp) | [Java](./java/0062_UniquePaths.java)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 66 Plus One: [C++](./c++/0066_PlusOne.cpp) | [Python](./python/0066_plus_one.py) | [Go](./go/0066_plus_one.go) | [Java](./java/0066_PlusOne.java)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 69 Sqrt(x): [C++](./c++/0069_SqrtX.cpp) | [Go](./go/0069_sqrt_x.go) | [Java](./java/0069_SqrtX.java)  
+<img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 75 Sort Colors: [Python](./python/0075_sort_colors.py)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 100 Same Tree: [TypeScript](./typescript/0100_SameTree.ts) | [Java](./java/0100_SameTree.java)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 120 Triangle: [C++](./c++/0120_Triangle.cpp) | [Go](./go/0120_triangle.go) | [Java](./java/0120_Triangle.java)  
 <img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 154 Find Minimum in Rotated Sorted Array II: [C++](./c++/0154_FindMinimumInRotatedSortedArrayII.cpp) | [Go](./go/0154_find_minimum_in_rotated_sorted_array_II.go)  
