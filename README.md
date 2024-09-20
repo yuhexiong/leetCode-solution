@@ -87,3 +87,4 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 3248 Snake in Matrix: [Python](./python/3248_snake_in_matrix.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3254 Find the Power of K-Size Subarrays I: [Python](./python/3254_find_the_power_of_k-size_subarrays_i.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 3259 Maximum Energy Boost From Two Drinks: [Python](./python/3259_maximum_energy_boost_from_two_drinks.py)  
+<img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 3289 The Two Sneaky Numbers of Digitville: [Python](./python/3289_the_two_sneaky_numbers_of_digitville.py)  
