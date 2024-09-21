@@ -67,6 +67,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 2715 Timeout Cancellation: [TypeScript](./typescript/2715_TimeoutCancellation.ts)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 2722 Join Two Arrays by ID: [TypeScript](./typescript/2722_JoinTwoArraysByID.ts) | [JavaScript](./javascript/2722_JoinTwoArraysByID.js)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 2723 Add Two Promises: [TypeScript](./typescript/2723_AddTwoPromises.ts) | [JavaScript](./javascript/2723_AddTwoPromises.js)  
+<img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 2796 Repeat String: [TypeScript](./typescript/2796_RepeatString.ts)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 2828 Check if a String Is an Acronym of Word: [C++](./c++/2828_CheckIfAStringIsAnAcronymOfWords.cpp)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 2879 Display the First Three Rows: [Python](./python/2879_display_the_first_three_rows.py)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 2884 Modify Columns: [Python](./python/2884_modify_columns.py)  
