@@ -57,6 +57,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 <img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 1575 Count All Possible Routes: [Python](./python/1575_count_all_possible_routes.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 1679 Max Number of K-Sum Pairs: [C](./c/1679_MaxNumberOfKSumPairs.c) | [C++](./c++/1679_MaxNumberOfKSumPairs.cpp)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers: [C++](./c++/1689_PartitioningIntoMinimumNumberOfDeciBinaryNumbers.cpp)  
+<img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 1821 Find Customers With Positive Revenue this Year: [MySQL](./mysql/1821_FindCustomersWithPositiveRevenueThisYear.sql)  
 <img height=18 src="./icon/hard_v2.png" alt="hard" /> Problem 2276 Count Integers in Intervals: [Python](./python/2276_count_integers_in_intervals.py)  
 <img height=18 src="./icon/easy_v2.png" alt="easy" /> Problem 2331 Evaluate Boolean Binary Tree: [Python](./python/2331_evaluate_boolean_binary_tree.py)  
 <img height=18 src="./icon/medium_v2.png" alt="medium" /> Problem 2487 Remove Nodes From Linked List: [Python](./python/2487_remove_nodes_from_linked_list.py)  
