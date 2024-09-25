@@ -85,6 +85,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3152 Special Array II: [Go](./go/3152_special_array_II.go)  
 ![medium](./icon/medium.png) Problem 3163 String Compression III: [C++](./c++/3163_StringCompressionIII.cpp)  
 ![medium](./icon/medium.png) Problem 3196 Maximize Total Cost of Alternating Subarrays: [Python](./python/3196_maximize_total_cost_of_alternating_subarrays.py)  
+![medium](./icon/medium.png) Problem 3204 Bitwise User Permissions Analysis: [MySQL](./mysql/3204_BitwiseUserPermissionsAnalysis.sql)  
 ![medium](./icon/medium.png) Problem 3227 Vowels Game in a String: [C++](./c++/3227_VowelsGameInAString.cpp) | [Go](./go/3227_vowels_game_in_a_string.go)  
 ![easy](./icon/easy.png) Problem 3248 Snake in Matrix: [Python](./python/3248_snake_in_matrix.py)  
 ![medium](./icon/medium.png) Problem 3254 Find the Power of K-Size Subarrays I: [Python](./python/3254_find_the_power_of_k-size_subarrays_i.py)  
