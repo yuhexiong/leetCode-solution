@@ -11,4 +11,4 @@ BEGIN
         -- 選擇不重複的薪水值, 由高到低排序, 略過 m 筆, 再只取一筆
         SELECT DISTINCT(salary) FROM Employee ORDER BY salary DESC LIMIT m, 1
     );
-END
+END;

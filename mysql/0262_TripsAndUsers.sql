@@ -11,4 +11,4 @@ JOIN Users d ON Trips.driver_id = d.users_id AND d.banned = 'No'
 JOIN Users c ON Trips.client_id = c.users_id AND c.banned = 'No'
 -- 限定日期, 再依日期分組
 WHERE (Request_at BETWEEN '2013-10-01' AND '2013-10-03')
-GROUP BY request_at
+GROUP BY request_at;
