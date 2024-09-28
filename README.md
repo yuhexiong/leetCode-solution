@@ -92,5 +92,6 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 3248 Snake in Matrix: [Python](./python/3248_snake_in_matrix.py)  
 ![medium](./icon/medium.png) Problem 3254 Find the Power of K-Size Subarrays I: [Python](./python/3254_find_the_power_of_k-size_subarrays_i.py)  
 ![medium](./icon/medium.png) Problem 3259 Maximum Energy Boost From Two Drinks: [Python](./python/3259_maximum_energy_boost_from_two_drinks.py)  
+![medium](./icon/medium.png) Problem 3271 Hash Divided String: [Python](./python/3271_hash_divided_string.py)  
 ![easy](./icon/easy.png) Problem 3289 The Two Sneaky Numbers of Digitville: [Python](./python/3289_the_two_sneaky_numbers_of_digitville.py)  
 ![medium](./icon/medium.png) Problem 3293 Calculate Product Final Price: [MySQL](./mysql/3293_CalculateProductFinalPrice.sql)  
