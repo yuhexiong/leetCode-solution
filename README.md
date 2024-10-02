@@ -96,4 +96,5 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![medium](./icon/medium.png) Problem 3271 Hash Divided String: [C++](./c++/3271_HashDividedString.cpp) | [Python](./python/3271_hash_divided_string.py)  
 ![easy](./icon/easy.png) Problem 3289 The Two Sneaky Numbers of Digitville: [Python](./python/3289_the_two_sneaky_numbers_of_digitville.py)  
 ![medium](./icon/medium.png) Problem 3293 Calculate Product Final Price: [MySQL](./mysql/3293_CalculateProductFinalPrice.sql)  
+![easy](./icon/easy.png) Problem 3294 Convert Doubly Linked List to Array II: [Python](./python/3294_convert_doubly_linked_list_to_array_ii.py)  
 ![medium](./icon/medium.png) Problem 3308 Find Top Performing Driver: [MySQL](./mysql/3308_FindTopPerformingDriver.sql)  
