@@ -86,6 +86,7 @@ Document my LeetCode solution with comprehensive chinese comments and incorporat
 ![easy](./icon/easy.png) Problem 3151 Special Array I: [Go](./go/3151_special_array_I.go)  
 ![medium](./icon/medium.png) Problem 3152 Special Array II: [Go](./go/3152_special_array_II.go)  
 ![medium](./icon/medium.png) Problem 3163 String Compression III: [C++](./c++/3163_StringCompressionIII.cpp)  
+![easy](./icon/easy.png) Problem 3173 Bitwise OR of Adjacent Elements: [C++](./c++/3173_BitwiseOrOfAdjacentElements.cpp)  
 ![medium](./icon/medium.png) Problem 3195 Find the Minimum Area to Cover All Ones I: [Python](./python/3195_fnd_the_minimum_area_to_cover_all_ones_i.py)  
 ![medium](./icon/medium.png) Problem 3196 Maximize Total Cost of Alternating Subarrays: [Python](./python/3196_maximize_total_cost_of_alternating_subarrays.py)  
 ![medium](./icon/medium.png) Problem 3204 Bitwise User Permissions Analysis: [MySQL](./mysql/3204_BitwiseUserPermissionsAnalysis.sql)  
